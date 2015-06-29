@@ -1,2 +1,2 @@
-# json_bitrix
-Loading json file in bitrix
+# kamil bitrix
+component, module, class, script
